@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/reporter",
+    "name": "snowsoft/reporter",
     "description": "Exception reporter for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "exception", "reporter"],
-    "homepage": "https://github.com/laravel-admin-extensions/reporter",
+    "homepage": "https://github.com/snowsoft/reporter",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": ">=5.5",
-        "encore/laravel-admin": ">=1.5",
+        "snowsoft/laravel-admin": ">=1.5",
         "ext-json": "*"
     },
     "require-dev": {
